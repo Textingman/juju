@@ -115,6 +115,23 @@ export default function TermsPage() {
             You agree not to send messages containing prohibited content, including but not limited to: illegal content, adult content, gambling, cannabis, or firearms.
           </p>
 
+          <h3 className="text-xl font-semibold text-[#2F3A40] mt-6 mb-3">5.4 JuJu SMS Program</h3>
+          <p className="text-[#6B7280] mb-4">
+            JuJu Technologies LLC operates an SMS messaging program to communicate with users who have opted in. By providing your mobile phone number and opting in, you consent to receive text messages from JuJu for the following purposes:
+          </p>
+          <ul className="list-disc pl-6 text-[#6B7280] mb-4 space-y-2">
+            <li><strong>Account Notifications:</strong> Messages related to your account activity, status updates, and important service alerts.</li>
+          </ul>
+          <p className="text-[#6B7280] mb-2">
+            <strong>Message frequency varies.</strong> Message and data rates may apply.
+          </p>
+          <p className="text-[#6B7280] mb-2">
+            To opt out of SMS messages at any time, reply <strong>STOP</strong> to any message you receive from us. You will receive a confirmation message and no further messages will be sent.
+          </p>
+          <p className="text-[#6B7280] mb-6">
+            For assistance, reply <strong>HELP</strong> to any message or contact us at <a href="mailto:support@usethejuju.com" className="text-[#3B82F6] hover:text-[#1d4ed8]">support@usethejuju.com</a>. Opting in to SMS is not required to use our Service.
+          </p>
+
           <h2 className="text-2xl font-bold text-[#2F3A40] mt-8 mb-4">6. Fees and Payment</h2>
           
           <h3 className="text-xl font-semibold text-[#2F3A40] mt-6 mb-3">6.1 Service Fees</h3>
@@ -320,9 +337,9 @@ export default function TermsPage() {
             </div>
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
-              <p className="text-gray-400">
-                support@usethejuju.com
-              </p>
+              <p className="text-gray-400">support@usethejuju.com</p>
+              <p className="text-gray-400">+1 (321) 297-7503</p>
+              <p className="text-gray-400 mt-2">251 Little Falls Dr<br />Wilmington, DE 19808</p>
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">

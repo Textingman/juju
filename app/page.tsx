@@ -229,9 +229,9 @@ export default function HomePage() {
             </div>
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
-              <p className="text-gray-400">
-                support@usethejuju.com
-              </p>
+              <p className="text-gray-400">support@usethejuju.com</p>
+              <p className="text-gray-400">+1 (321) 297-7503</p>
+              <p className="text-gray-400 mt-2">251 Little Falls Dr<br />Wilmington, DE 19808</p>
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
