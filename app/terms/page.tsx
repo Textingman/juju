@@ -57,14 +57,14 @@ export default function TermsPage() {
 
           <h2 className="text-2xl font-bold text-[#2F3A40] mt-8 mb-4">2. Description of Service</h2>
           <p className="text-[#6B7280] mb-6">
-            Juju provides a carrier-compliant resume analysis and career coaching platform that allows businesses to verify customer resumes through a secure, pass-through verification page. The Service includes:
+            Juju provides a resume analysis and career coaching platform that allows businesses to verify customer resumes through a secure, pass-through verification page. The Service includes:
           </p>
           <ul className="list-disc pl-6 text-[#6B7280] mb-6 space-y-2">
             <li>resume analysis and career coaching landing pages</li>
             <li>Phone number verification flow</li>
             <li>Parameter preservation and redirect functionality</li>
             <li>Multi-brand support with customizable styling</li>
-            <li>Carrier-compliant infrastructure</li>
+            <li>Secure infrastructure</li>
           </ul>
 
           <h2 className="text-2xl font-bold text-[#2F3A40] mt-8 mb-4">3. Account Registration and Security</h2>
@@ -95,14 +95,14 @@ export default function TermsPage() {
             <li>Impersonate any person or entity or misrepresent your affiliation</li>
             <li>Collect or harvest personal information without consent</li>
             <li>Use the Service for any illegal or unauthorized purpose</li>
-            <li>Violate carrier regulations or 10DLC compliance requirements</li>
+            <li>Violate applicable regulations or compliance requirements</li>
           </ul>
 
           <h2 className="text-2xl font-bold text-[#2F3A40] mt-8 mb-4">5. Compliance with Carrier Requirements</h2>
           
           <h3 className="text-xl font-semibold text-[#2F3A40] mt-6 mb-3">5.1 10DLC Compliance</h3>
           <p className="text-[#6B7280] mb-6">
-            You agree to comply with all applicable carrier requirements, including 10DLC (10-Digit Long Code) regulations. You are responsible for obtaining proper consent from end users before sending SMS messages and maintaining records of such consent.
+            You agree to comply with all applicable laws and regulations.
           </p>
 
           <h3 className="text-xl font-semibold text-[#2F3A40] mt-6 mb-3">5.2 Opt-In Requirements</h3>
@@ -112,7 +112,7 @@ export default function TermsPage() {
 
           <h3 className="text-xl font-semibold text-[#2F3A40] mt-6 mb-3">5.3 Content Restrictions</h3>
           <p className="text-[#6B7280] mb-6">
-            You agree not to send messages containing prohibited content, including but not limited to: illegal content, adult content, gambling, cannabis, firearms, or any content that violates carrier guidelines.
+            You agree not to send messages containing prohibited content, including but not limited to: illegal content, adult content, gambling, cannabis, or firearms.
           </p>
 
           <h2 className="text-2xl font-bold text-[#2F3A40] mt-8 mb-4">6. Fees and Payment</h2>
@@ -285,7 +285,7 @@ export default function TermsPage() {
             <div>
               <h3 className="text-xl font-bold mb-4">Juju</h3>
               <p className="text-gray-400">
-                Carrier-compliant resume analysis and career coaching for businesses.
+                Resume analysis and career coaching for businesses.
               </p>
             </div>
             <div>

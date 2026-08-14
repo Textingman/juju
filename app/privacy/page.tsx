@@ -92,7 +92,7 @@ export default function PrivacyPage() {
             <li>Process your transactions and manage your account</li>
             <li>Send you service-related communications</li>
             <li>Improve our service and develop new features</li>
-            <li>Ensure compliance with carrier requirements and regulations</li>
+            <li>Ensure compliance with applicable regulations</li>
             <li>Detect and prevent fraud or abuse</li>
             <li>Comply with legal obligations</li>
           </ul>
@@ -203,7 +203,7 @@ export default function PrivacyPage() {
             <div>
               <h3 className="text-xl font-bold mb-4">Juju</h3>
               <p className="text-gray-400">
-                Carrier-compliant resume analysis and career coaching for businesses.
+                Resume analysis and career coaching for businesses.
               </p>
             </div>
             <div>
