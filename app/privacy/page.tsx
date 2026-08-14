@@ -10,7 +10,7 @@ export default function PrivacyPage() {
           <div className="flex justify-between items-center h-32">
             <div className="flex items-center">
               <Link href="/" className="flex-shrink-0">
-                <span className="text-3xl font-black text-[#2F3A40] tracking-tight">✨ Juju <span className="text-[#3B82F6]">Mobile</span></span>
+                <span className="text-3xl font-black text-[#3B82F6] tracking-tight">Juju</span>
               </Link>
             </div>
             <div className="hidden md:block">

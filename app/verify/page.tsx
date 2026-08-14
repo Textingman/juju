@@ -69,7 +69,7 @@ function VerifyPageContent() {
       <div className="max-w-md w-full bg-white rounded-2xl shadow-xl p-8">
         {/* Logo/Brand */}
         <div className="flex justify-center mb-8">
-          <span className="text-3xl font-black text-[#2F3A40] tracking-tight">✨ Juju <span className="text-[#3B82F6]">Mobile</span></span>
+          <span className="text-3xl font-black text-[#3B82F6] tracking-tight">Juju</span>
         </div>
 
         {/* Verification Content */}
