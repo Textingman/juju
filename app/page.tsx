@@ -230,7 +230,7 @@ export default function HomePage() {
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
               <p className="text-gray-400">
-                support@getjuju.com
+                support@usethejuju.com
               </p>
             </div>
           </div>
